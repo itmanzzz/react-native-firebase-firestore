@@ -46,12 +46,6 @@ If all has gone well you'll see an initial screen like the one below.
 ![preview](https://i.imgur.com/4lG4HuS.png)
 
 
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
-<a href="graphs/contributors"><img src="https://opencollective.com/react-native-firebase/contributors.svg?width=890" /></a>
-
-
 ### License
 
 - See [LICENSE](/LICENSE)

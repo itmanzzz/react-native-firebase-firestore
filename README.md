@@ -5,7 +5,8 @@
 Follow this tutorial to make basic react native app with [`react-native-firebase`](https://github.com/invertase/react-native-firebase) pre-integrated  to get you started quickly.
 
 ---
-
+### Firestore Demo (Realtime Database, Serverless...run mobile apps without Server) Go!!!
+![Alt Text](https://github.com/l0ptruong/react-native-firebase-firestore/blob/master/example/firestore.gif)
 
 ### Getting Started
 We're practicing with Firestore, how can we use and how can we intergrate in our application. So at first, you can download my repository or follow `rnfirebase.ios` to create the base project, they're intergrating firebase into react-native very well. Let's enjoy! ^ ^!

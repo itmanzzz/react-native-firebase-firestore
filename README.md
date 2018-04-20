@@ -8,7 +8,7 @@ Follow this tutorial to make basic react native app with [`react-native-firebase
 
 
 ### Getting Started
-We're doing to practice with Firestore, how can we use and how can we intergrate in our application. So at first, you can download my repository or follow `rnfirebase.ios` to create the base project, they're intergrating firebase into react-native very well. Let's enjoy! ^ ^!
+We're practicing with Firestore, how can we use and how can we intergrate in our application. So at first, you can download my repository or follow `rnfirebase.ios` to create the base project, they're intergrating firebase into react-native very well. Let's enjoy! ^ ^!
 
 #### 1) Clone & Install Dependencies
 
